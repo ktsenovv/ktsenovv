@@ -1,1 +1,1 @@
-<img src="https://kcenow.com/resources/cover.png">
+<img src="https://raw.githubusercontent.com/kcenow/kcenow/main/cover.png">
