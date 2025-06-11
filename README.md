@@ -13,7 +13,7 @@
 <b>⚡ Power Supply:</b> Seasonic Vertex GX 1200W<br />
 <b>🌀 Fans:</b> Fractal Design Prisma AL-12 PWM<br />
 <b>└ 🖧 Hub:</b> ID-COOLING HA-02 ARGB<br />
-<br /><br />
+<br />
 <h2>🖨️ PERIPHERY:</h2>
 <b>🖥️ Monitor:</b> MSI Optix MAG301RF<br />
 └ <b>🪝 Desk Mount:</b> Arctic Monitor Arm X1-3D<br />
