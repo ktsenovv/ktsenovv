@@ -23,4 +23,4 @@
 <b>└ 🕹️ Gaming:</b> Logitech G203 Lightsync RGB<br />
 <b>🎮 Gaming Controler:</b> Playstation Dualshock 4 Wireless<br />
 <b>🔊 Speakers:</b> Mars Gaming MS7<br />
-<b>💺 Стол:</b> Carmen 7582 Black Ergonomic<br />
+<b>💺 Chair:</b> Carmen 7582 Black Ergonomic<br />
