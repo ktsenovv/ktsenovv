@@ -8,7 +8,7 @@
 <b>└ ❄️ AIO Cooler:</b> Arctic Liquid Freezer II 360<br />
 <b>└ 💧 Thermal Paste:</b> Arctic MX-6 <br />
 <b>🎬 Videocard:</b> Gigabyte GeForce RTX™ 4070 SUPER GAMING OC 12G<br />
-<b>💾 RAM:</b> G.Skill Trident Z5 RGB DDR5-7200 [CL34-45-45-115 1.40V 32GB (2x16GB) Intel XMP]<br />
+<b>📊 RAM:</b> G.Skill Trident Z5 RGB DDR5-7200 [CL34-45-45-115 1.40V 32GB (2x16GB) Intel XMP]<br />
 <b>💾 SSD:</b> Samsung 990 PRO PCIe 4.0<br />
 <b>⚡ Power Supply:</b> Seasonic Vertex GX 1200W<br />
 <b>🌀 Fans:</b> Fractal Design Prisma AL-12 PWM<br />
